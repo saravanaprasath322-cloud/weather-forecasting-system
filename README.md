@@ -1,4 +1,4 @@
-# Weather Forecasting System 🌦️🌱 (Java Version)
+# Weather Forecasting System  (Java Version)
 
 This project integrates **real-time weather forecasting** with **Air Quality Index (AQI)** and **Pollen Count**.
 
